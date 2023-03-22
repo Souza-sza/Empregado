@@ -1,0 +1,15 @@
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\bin\Debug\net7.0\ProjetoSegundo.exe
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\bin\Debug\net7.0\ProjetoSegundo.deps.json
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\bin\Debug\net7.0\ProjetoSegundo.runtimeconfig.json
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\bin\Debug\net7.0\ProjetoSegundo.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\bin\Debug\net7.0\ProjetoSegundo.pdb
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.csproj.AssemblyReference.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.AssemblyInfoInputs.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.AssemblyInfo.cs
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.csproj.CoreCompileInputs.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\refint\ProjetoSegundo.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.pdb
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ProjetoSegundo.genruntimeconfig.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\ProjetoSegundo\ProjetoSegundo\obj\Debug\net7.0\ref\ProjetoSegundo.dll
